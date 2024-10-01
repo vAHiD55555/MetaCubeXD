@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.125.1](https://github.com/vAHiD55555/MetaCubeXD/compare/v1.125.0...v1.125.1) (2024-10-01)
+
+
+### Bug Fixes
+
+* package.json to reduce vulnerabilities ([fb0e6a2](https://github.com/vAHiD55555/MetaCubeXD/commit/fb0e6a25803be735f6b5e365a819894ee895660b))
+* upgrade @solidjs/router from 0.8.4 to 0.14.3 ([c1e0a20](https://github.com/vAHiD55555/MetaCubeXD/commit/c1e0a200cce5a9f87f34d85e984f4c22a5305d6a))
+* upgrade @vite-pwa/assets-generator from 0.0.10 to 0.2.6 ([acd9a27](https://github.com/vAHiD55555/MetaCubeXD/commit/acd9a27a092089e790b80f5eba865fa08c3050bb))
+
 ## [1.125.0](https://github.com/vAHiD55555/MetaCubeXD/compare/v1.124.1...v1.125.0) (2023-10-08)
 
 
